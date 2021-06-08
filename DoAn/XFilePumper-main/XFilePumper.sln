@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFilePumper", "XFilePumper.csproj", "{9CD646D1-9FBD-48D0-93AD-1E9B62B496D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CD646D1-9FBD-48D0-93AD-1E9B62B496D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD646D1-9FBD-48D0-93AD-1E9B62B496D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD646D1-9FBD-48D0-93AD-1E9B62B496D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD646D1-9FBD-48D0-93AD-1E9B62B496D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3AB4A80-6F88-4E21-8257-E2B59B2F354F}
+	EndGlobalSection
+EndGlobal
